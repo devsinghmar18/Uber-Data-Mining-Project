@@ -14,3 +14,6 @@ charges.
 develop robust predictive models to 
 estimate fare amounts and tip amounts for 
 Uber trips based on trip-related features.
+
+
+For other details refer to ppt attached
